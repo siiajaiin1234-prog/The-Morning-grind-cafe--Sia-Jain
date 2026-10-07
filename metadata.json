@@ -1,0 +1,6 @@
+{
+  "name": "The Morning Grind Cafe & Roastery",
+  "description": "Neighborhood specialty coffee shop, micro-roastery, and artisanal bakery featuring handcrafted espresso, seasonal single origins, and The Morning Grind Journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
